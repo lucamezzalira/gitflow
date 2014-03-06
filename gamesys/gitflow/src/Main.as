@@ -16,7 +16,7 @@ package{
 			this.removeEventListener(Event.ADDED_TO_STAGE, init);
 
 			//do something
-			trace("I'm in release branch and I can only fix the bugs");
+			trace("now I'm in release branch and I can't add new features but only fix bugs!!!");
 
 		}
 	}
