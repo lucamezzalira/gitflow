@@ -16,7 +16,7 @@ package{
 			this.removeEventListener(Event.ADDED_TO_STAGE, init);
 
 			//do something
-			trace("I'm in the first feature branch");
+			trace("I'm in release branch and I can only fix the bugs");
 
 		}
 	}
